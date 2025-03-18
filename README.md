@@ -52,7 +52,7 @@ flight-live-map/
 
 ## 数据来源
 - **API**: [AviationStack](https://aviationstack.com/)
-- **API Key（示例）**: \`7872878ff908c1337431412f4ab5921a\`
+- **API Key**: 需要在网站上创建账户并生成
 
 ---
 
