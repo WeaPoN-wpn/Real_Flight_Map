@@ -1,4 +1,3 @@
-readme_content = """
 # ✈️ Flight Live Map
 
 ## 项目简介
@@ -71,10 +70,3 @@ flight-live-map/
 
 ## License
 MIT License
-"""
-
-# 写入 README.md 文件
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("✅ README.md 文件已生成")
