@@ -19,10 +19,10 @@
 ## 快速开始
 
 ### 1️⃣ 克隆项目
-\`\`\`bash
+```bash
 git clone https://github.com/你的用户名/flight-live-map.git
 cd flight-live-map
-\`\`\`
+```
 
 ### 2️⃣ 安装依赖
 建议使用虚拟环境：
