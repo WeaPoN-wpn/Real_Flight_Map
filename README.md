@@ -19,21 +19,21 @@
 ## 快速开始
 
 ### 1️⃣ 克隆项目
-```bash
+```
 git clone https://github.com/你的用户名/flight-live-map.git
 cd flight-live-map
 ```
 
 ### 2️⃣ 安装依赖
 建议使用虚拟环境：
-\`\`\`bash
+```
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 3️⃣ 运行项目
-\`\`\`bash
+```
 streamlit run flight_map.py
-\`\`\`
+```
 
 ### 4️⃣ 查看效果
 默认将在浏览器打开：http://localhost:8501
@@ -41,12 +41,12 @@ streamlit run flight_map.py
 ---
 
 ## 文件结构
-\`\`\`
+```
 flight-live-map/
 ├── flight_map.py         # 主应用脚本
 ├── requirements.txt      # 项目依赖包
 └── README.md             # 项目说明文件
-\`\`\`
+```
 
 ---
 
